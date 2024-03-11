@@ -1,18 +1,12 @@
 # React-Portfolio
 
-
-
 ## Description
 
-
+Task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
 
 ## Demo
 
-
-
-## Site Link
-
-<a href="">Deployed Site</a>
+<a href="">React Portfolio Demo Vid</a>
 
 ## Usage
 
