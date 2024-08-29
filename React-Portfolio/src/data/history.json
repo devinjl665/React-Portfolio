@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Coding Bootcamp Student",
+        "organization": "Washington University in Saint Louis",
+        "startDate": "Sept 2023",
+        "endDate": "March 2024",
+        "experiences": ["A rigorous, fast paced bootcamp that took 24 weeks to complete.", "Completed multiple projects that display the job-ready skills taught in the course."],
+        "imageSrc": "history/washulogo.png"
+    },
+    {
+        "role": "",
+        "organization": "",
+        "startDate": "",
+        "endDate": "",
+        "experiences": ["", ""],
+        "imageSrc": ""
+    },
+    {
+        "role": "",
+        "organization": "",
+        "startDate": "",
+        "endDate": "",
+        "experiences": ["", ""],
+        "imageSrc": ""
+    }
+]
