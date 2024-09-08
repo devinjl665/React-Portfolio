@@ -86,18 +86,18 @@
 
 .historyItemDetails h3 {
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 700;
 }
 
-.historyItemDetails h3 {
-    font-size: 20px;
+.historyItemDetails p {
+    font-size: 15px;
     font-weight: 300;
 }
 
 .historyItemDetails ul {
     margin-top: 6px;
     list-style-position: inside;
-    font-size: 25px;
+    font-size: 20px;
     list-style-type: disc;
     margin-left: 17px;
 }
