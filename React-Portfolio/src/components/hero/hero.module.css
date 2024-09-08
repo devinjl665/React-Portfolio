@@ -42,7 +42,8 @@
 }
 
 
-.contactBtn {
+.btn {
+    margin-top: 25px;
     text-decoration: none;
     background-color: var(--color-primary);
     color: var(--color-text);
@@ -53,16 +54,6 @@
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
 }
 
-.resumeBtn {
-    text-decoration: none;
-    background-color: var(--color-primary);
-    color: var(--color-text);
-    border-radius: 100px;
-    font-size: 30px;
-    font-weight: 600;
-    padding: 17px 26px;
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
-}
 
 .heroImg {
     width: 50%;
