@@ -1,26 +1,26 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
-        "description": "a project",
-        "skills": ["skill", "skill", "skill"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "E-Commerce Back End",
+        "imageSrc": "projects/ecommerce.png",
+        "description": "Back end for an e-commerce site.",
+        "skills": ["Express.js", "MySQL", "Javascript"],
+        "demo": "https://drive.google.com/file/d/1gOAp2yVDs7bU3JIxLvVFekpulPHknNrQ/view",
+        "source": "https://github.com/devinjl665/ECOMMERCE-BACKEND"
     },
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
-        "description": "a project",
-        "skills": ["skill", "skill", "skill"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "Social Network API",
+        "imageSrc": "projects/social-network.png",
+        "description": "API for a social network web application.",
+        "skills": ["Express.js", "MongoDB", "Mongoose"],
+        "demo": "https://drive.google.com/file/d/1yZiZDWiU-YjtR3eMVt6qpWP_a0TkPPo9/view",
+        "source": "https://github.com/devinjl665/Social-Network-API"
     },
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
-        "description": "a project",
-        "skills": ["skill", "skill", "skill"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "Employee Tracker",
+        "imageSrc": "projects/employee-tracker.png",
+        "description": "An application that allows for an URL to be made into a QR Code.",
+        "skills": ["Node.js", "MySQL", "Javascript"],
+        "demo": "https://drive.google.com/file/d/1ct3XNz0HxwoZOvhV_camGaPNP5fsUQPw/view",
+        "source": "https://github.com/devinjl665/Employee-Tracker"
     }
 ]
